@@ -1,0 +1,46 @@
+h1 {
+	font-family: "verdana", sans-serif;
+}
+
+.menu {
+	text-align: right;
+}
+
+.banner {
+	margin: 10px;
+	border-radius: 10px;
+	height: 400px;
+	width: 100%;
+}
+
+.head {
+	width: 150px;
+	margin: 5px;
+}
+
+.card {
+	border: solid lightgray;
+	border-radius:5px;
+	padding: 5px;
+	width: 300px;
+	height: 400px;
+	margin: 10px;
+}
+
+.card_img {
+	width: 300px;
+	height: 230px;
+	text-align:center;
+}
+
+.timestamp {
+	text-align: right;
+	font-family: verdana;
+	font-size: 8px;
+}
+
+.more {
+	background-color: Gainsboro;
+	border-radius: 2px;
+	text-align: right;
+}
