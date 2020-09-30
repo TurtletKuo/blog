@@ -4,13 +4,26 @@ h1 {
 
 .menu {
 	text-align: right;
+	font-weight: bold;
+	font-size: 20px;
+	
+	background-color: lightgray;
+	
+	margin: 10px 0 10px 0;
+	padding: 3px;
+	height: 40px;
+	
 }
 
 .banner {
-	margin: 10px;
 	border-radius: 10px;
 	height: 400px;
 	width: 100%;
+	filter: brightness(130%) blur(5px);
+}
+
+.artcle_class {
+	margin-top: 50px;
 }
 
 .head {
@@ -21,10 +34,11 @@ h1 {
 .card {
 	border: solid lightgray;
 	border-radius:5px;
-	padding: 5px;
+	padding: 8px;
 	width: 300px;
 	height: 400px;
 	margin: 10px;
+	float:left;
 }
 
 .card_img {
